@@ -1,0 +1,2 @@
+git add quotes.txt
+git status
